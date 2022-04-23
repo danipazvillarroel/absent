@@ -93,9 +93,9 @@ img {
     transition-duration: .3s;
 }
 
-/* .listado__elemento:hover {
+.listado__elemento:hover {
     transform: scale(1.1);
-} */
+}
 
 @media (min-width: 768px) {
     .listado__elemento--2columnas {
